@@ -1,0 +1,40 @@
+{
+  "zh_TW": {
+    "copying_text": "正在將 {total_items} 個項目從 {src} 複製到 {dst}",
+    "completed_status": "{percent}% 已完成",
+    "speed_label": "速度: {speed} MB/秒",
+    "name_label": "名稱: {filename}",
+    "time_label": "剩餘時間: {time_str}",
+    "items_label": "剩餘的項目: {items_left} ({size_left} GB)",
+    "less_details": "∧  較少詳細資料",
+    "more_details": "∨  更多詳細資料",
+    "calculating": "計算中...",
+    "seconds": "{secs} 秒",
+    "minutes_seconds": "{mins} 分 {secs} 秒",
+    "hours_minutes": "{hours} 小時 {mins} 分",
+    "paused": "已暫停",
+    "completed_title": "複製完成",
+    "completed_header": "複製完成！",
+    "remaining_zero": "剩餘時間: 0 秒",
+    "items_zero": "剩餘的項目: 0 (0.00 GB)"
+  },
+  "en_US": {
+    "copying_text": "Copying {total_items} items from {src} to {dst}",
+    "completed_status": "{percent}% completed",
+    "speed_label": "Speed: {speed} MB/second",
+    "name_label": "Name: {filename}",
+    "time_label": "Time remaining: {time_str}",
+    "items_label": "Items remaining: {items_left} ({size_left} GB)",
+    "less_details": "∧  Fewer details",
+    "more_details": "∨  More details",
+    "calculating": "Calculating...",
+    "seconds": "{secs} seconds",
+    "minutes_seconds": "{mins} min {secs} sec",
+    "hours_minutes": "{hours} hr {mins} min",
+    "paused": "Paused",
+    "completed_title": "Copy complete",
+    "completed_header": "Copy complete!",
+    "remaining_zero": "Time remaining: 0 seconds",
+    "items_zero": "Items remaining: 0 (0.00 GB)"
+  }
+}
