@@ -6,8 +6,8 @@
     "name_label": "名稱: {filename}",
     "time_label": "剩餘時間: {time_str}",
     "items_label": "剩餘的項目: {items_left} ({size_left} GB)",
-    "less_details": "∧  較少詳細資料",
-    "more_details": "∨  更多詳細資料",
+    "less_details": "較少詳細資料",
+    "more_details": "更多詳細資料",
     "calculating": "計算中...",
     "seconds": "{secs} 秒",
     "minutes_seconds": "{mins} 分 {secs} 秒",
@@ -16,7 +16,7 @@
     "completed_title": "複製完成",
     "completed_header": "複製完成！",
     "remaining_zero": "剩餘時間: 0 秒",
-    "items_zero": "剩餘的項目: 0 (0.00 GB)"
+    "items_zero_value": "剩餘的項目: 0 (0.00 GB)"
   },
   "en_US": {
     "copying_text": "Copying {total_items} items from {src} to {dst}",
@@ -25,8 +25,8 @@
     "name_label": "Name: {filename}",
     "time_label": "Time remaining: {time_str}",
     "items_label": "Items remaining: {items_left} ({size_left} GB)",
-    "less_details": "∧  Fewer details",
-    "more_details": "∨  More details",
+    "less_details": "Fewer details",
+    "more_details": "More details",
     "calculating": "Calculating...",
     "seconds": "{secs} seconds",
     "minutes_seconds": "{mins} min {secs} sec",
@@ -35,6 +35,6 @@
     "completed_title": "Copy complete",
     "completed_header": "Copy complete!",
     "remaining_zero": "Time remaining: 0 seconds",
-    "items_zero": "Items remaining: 0 (0.00 GB)"
+    "items_zero_value": "Items remaining: 0 (0.00 GB)"
   }
 }
